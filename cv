@@ -1,0 +1,5 @@
+#Input your data
+name = input(" Как тебя зовут ")
+age = input(" Сколько тебе лет? ")
+
+print(" Добрый день" + name, "Твой возраст" + age)
